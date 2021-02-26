@@ -7,3 +7,4 @@
 - 🤔 I’m interested in ... learning more about accessibility on the web
 - 📫 How to reach me: ... on <a href='https://www.linkedin.com/in/victoria-l-mount/'>LinkedIn</a>
 - 😄 Pronouns: ... She/her
+- 🛠 JavaScript | React/Redux | Python | Node.js | HTML/CSS 
